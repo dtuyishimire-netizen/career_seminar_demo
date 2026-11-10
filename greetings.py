@@ -2,7 +2,7 @@
 
 import random
 
-# List of greetings
+# List of greetings.
 greetings = [
     "Muraho! (Kinyarwanda)",
     "Hello! (English)",
