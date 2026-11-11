@@ -7,6 +7,7 @@ greetings = [
     "Muraho! (Kinyarwanda)",
     "Hello! (English)",
     "Jambo! (Swahili)",
+    "Wo ne Nyame nko (Twi)",
 ]
 
 print("\n✨ *** GREETING WALL *** ✨\n")
